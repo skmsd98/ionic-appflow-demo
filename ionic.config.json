@@ -1,5 +1,6 @@
 {
   "name": "appflow-demo",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "id": "7bc8511d"
 }
